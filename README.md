@@ -17,9 +17,9 @@ The program calculates classroom, floor, and total building capacity for **CCI's
   - Rejects negative percentage values
   - Requires at least 1 floor
   - Requires at least 2 classrooms per floor
-## Acknowledgements
+## Acknowledgments 
 Project developed for: 
 - **ITSC 1212 - Introduction to Computer Science I**
-- Intstructor: D.I. Von Briesen
+- Professor: D.I. Von Briesen
 - University of North Carolina at Charlotte
 © 2025 Samuel Ramdial
